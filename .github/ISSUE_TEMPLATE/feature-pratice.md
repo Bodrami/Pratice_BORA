@@ -1,20 +1,17 @@
----
-name: Feature Pratice
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+## 무슨 이유로 코드를 변경했는가
+- [ ] 신규 기능
+- [ ] 기능 수정
+- [ ] 버그 픽스
 
----
+## 어떤 위험이나 장애가 발견되었는지 (버그 픽스인 경우)
+- 
+- 
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 어떤 부분에 리뷰어가 집중하면 좋은가
+- 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 관련 스크린 샷 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 테스트 계획 또는 완료 사항
+- [ ] 테스트항목 1
+- [ ] 테스트항목 2
